@@ -1,1 +1,1 @@
-# this lessosn explores shell variables expansions
+README, mandatory
